@@ -1,0 +1,4 @@
+name: r-env
+dependencies:
+- r-base
+- r-essentials
