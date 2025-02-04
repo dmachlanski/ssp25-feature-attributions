@@ -1,0 +1,11 @@
+name: ssp25
+dependencies:
+- python
+- scipy
+- scikit-learn
+- matplotlib
+- seaborn
+- shap
+- pandas
+- numpy
+- scikit-survival
