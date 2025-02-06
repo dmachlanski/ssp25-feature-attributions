@@ -9,3 +9,4 @@ dependencies:
 - pandas
 - numpy
 - scikit-survival
+- ipykernel
