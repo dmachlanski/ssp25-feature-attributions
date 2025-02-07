@@ -1,4 +1,7 @@
 name: ssp25
+channels:
+- conda-forge
+- defaults
 dependencies:
 - python
 - scipy
