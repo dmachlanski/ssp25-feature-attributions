@@ -1,4 +1,4 @@
-name: ssp25
+name: ukairs25
 channels:
 - conda-forge
 - defaults
